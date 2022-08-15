@@ -1,0 +1,4 @@
+n1;n2;valor;i;i <= n1;output;add(valor,n2)
+2;4;0;1;true;-;4
+2;4;4;2;true;-;8
+2;4;8;3;false;8;-

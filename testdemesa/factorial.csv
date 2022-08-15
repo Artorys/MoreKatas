@@ -1,0 +1,6 @@
+n1;valor;i;i > 1;output;factorial(n1)
+5;1;5;true;-;5
+5;20;4;true;-;20
+5;60;3;true;-;60
+5;120;2;true;-;120
+5;120;1;false;120;-
